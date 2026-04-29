@@ -1,0 +1,7 @@
+{
+  "name": "Svelte + Vite + Tailwind + Shadcn",
+  "shortname": "svelte-vite-tailwind-shadcn",
+  "author": "Alex Ritt",
+  "description": "A SvelteKit template with Vite, Tailwind CSS, and Shadcn UI components.",
+  "helpurl": "https://github.com/AR0106/wails-template-svelte-vite-tailwind-shadcn"
+}
